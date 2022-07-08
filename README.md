@@ -4,7 +4,7 @@ Get homeopathic medicine recommendations with ranking from symptoms as input.
 link - http://searchtool.top/find-homeo-remedy
 
 Working on patient and case history database management system. Will be deployed soon.
-Technologies used - NLP, Random Forest, and a lot of data preprocessing.
+Technologies used - Python, NLP and a lot of data preprocessing.
 
 Literatures used- Kent's Rrepertory, Clarke's Materia Medica
 More to be included soon
